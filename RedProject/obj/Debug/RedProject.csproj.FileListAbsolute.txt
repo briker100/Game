@@ -1,0 +1,14 @@
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\bin\Debug\RedProject.exe.config
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\bin\Debug\RedProject.exe
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\bin\Debug\RedProject.pdb
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\obj\Debug\RedProject.csprojAssemblyReference.cache
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\obj\Debug\RedProject.csproj.CoreCompileInputs.cache
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\obj\Debug\RedProject.exe
+C:\Users\Bailey Riker\source\repos\RedProject\RedProject\obj\Debug\RedProject.pdb
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\bin\Debug\RedProject.exe.config
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\bin\Debug\RedProject.exe
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\bin\Debug\RedProject.pdb
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\obj\Debug\RedProject.csprojAssemblyReference.cache
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\obj\Debug\RedProject.csproj.CoreCompileInputs.cache
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\obj\Debug\RedProject.exe
+C:\Users\Bailey Riker\source\repos\Game-Application\RedProject\obj\Debug\RedProject.pdb
